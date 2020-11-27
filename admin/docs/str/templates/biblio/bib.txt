@@ -1,0 +1,10 @@
+@article{smith1869xviii,
+  title={XVIII. Descriptions of New Genera and Species of Exotic Hymenoptera.},
+  author={Smith, Frederick},
+  journal={Transactions of the Royal Entomological Society of London},
+  volume={17},
+  number={4},
+  pages={301--311},
+  year={1869},
+  publisher={Wiley Online Library}
+}
