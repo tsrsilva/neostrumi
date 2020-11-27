@@ -1,0 +1,30 @@
+@article{sosa2010review,
+  title={A review of the dacetine ants of Guyana (Formicidae: Myrmicinae)},
+  author={Sosa-Calvo, Jeffrey and Schultz, Ted R and LaPolla, John S},
+  journal={Journal of Hymenoptera Research},
+  volume={19},
+  number={1},
+  pages={12--43},
+  year={2010},
+  publisher={Citeseer}
+}
+
+@article{roger1863neu,
+  title={Die neu aufgef{\"u}hrten Gattungen und Arten meines Formiciden-Verzeichnisses nebst Erg{\"a}nzung einiger fr{\"u}her gegebenen Beschreibungen},
+  author={Roger, Julius},
+  journal={Berliner Entomologische Zeitschrift},
+  volume={7},
+  number={1-2},
+  pages={131--214},
+  year={1863},
+  publisher={Wiley Online Library}
+}
+
+@article{emery1896studi,
+  title={Studi sulle formiche della fauna Neotropica.},
+  author={Emery, C},
+  journal={Bollettino della Societ{\'a} Entomologica Italiana},
+  volume={28},
+  pages={33--107},
+  year={1896}
+}

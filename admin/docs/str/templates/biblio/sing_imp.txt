@@ -1,0 +1,10 @@
+@article{sosa2010review,
+  title={A review of the dacetine ants of Guyana (Formicidae: Myrmicinae)},
+  author={Sosa-Calvo, Jeffrey and Schultz, Ted R and LaPolla, John S},
+  journal={Journal of Hymenoptera Research},
+  volume={19},
+  number={1},
+  pages={12--43},
+  year={2010},
+  publisher={Citeseer}
+}
